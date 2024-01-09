@@ -1,4 +1,28 @@
 # Unveiling Patterns using Ensemble Learning for Crime Analysis and Prediction in Chicago
+## Introduction
+Crime is a pervasive problem in urban areas, with many cities struggling to keep their citizens safe. 
+The city of Chicago is no exception, with a significant crime rate that has garnered national attention. 
+However, advances in computer science have enabled researchers to develop sophisticated tools to 
+analyse and predict criminal activity, giving law enforcement agencies the ability to be more 
+proactive in preventing crime.
+Due to its high crime rate and reputation as one of the most violent cities in the country, Chicago is a 
+great place for study on crime analysis and prediction. There are some factors which make predicting 
+crime difficult. One of these is data quality, as the information that is currently available is frequently 
+inaccurate, skewed, and incomplete. Another is the influences on crime, which might include social 
+and economic elements that make it challenging to anticipate crime with accuracy as these vary with 
+every city. I created robust machine learning algorithms that can learn to identify patterns in the data 
+and predict the crime level of the city. By identifying high-risk regions and allocating police resources 
+accordingly, these models have the potential to lower crime rates and make cities safer for their 
+inhabitants. To enhance the performance of the models, I applied modern ensemble techniques.
+Exploratory data analysis was performed on the crime data, and characteristics such as the crime’s 
+location and time were used to uncover underlying trends over time. Under- standing the 
+relationships between crime and other factors was made easier by visualizing the patterns of crime. 
+It was discovered that a yearly pattern of crime was discovered, with the months of March through 
+August consistently having the highest crime rates.
+The Chicago crime data set was taken from Kaggle. The year wise records were obtained from the 
+source from 2010-2022. The data contains information on various types of crimes, including 
+homicide, robbery, burglary, theft, and more. The data includes the date, time, location, and type of 
+crime, whether arrested or not. The data set before pre-processing consisted of 23 features.
 ### Dataset
 https://www.kaggle.com/code/onlyrohit/criminal-activity-hotspots-identification/data?select=2013.csv
 ## Libraries
